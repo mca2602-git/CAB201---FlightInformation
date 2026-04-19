@@ -1,0 +1,14 @@
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.AssemblyInfoInputs.cache
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.AssemblyInfo.cs
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\A2_CAB201\bin\Debug\net8.0\A2_CAB201.exe
+C:\Users\marca\source\repos\A2_CAB201\bin\Debug\net8.0\A2_CAB201.deps.json
+C:\Users\marca\source\repos\A2_CAB201\bin\Debug\net8.0\A2_CAB201.runtimeconfig.json
+C:\Users\marca\source\repos\A2_CAB201\bin\Debug\net8.0\A2_CAB201.dll
+C:\Users\marca\source\repos\A2_CAB201\bin\Debug\net8.0\A2_CAB201.pdb
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.dll
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\refint\A2_CAB201.dll
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.pdb
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\A2_CAB201.genruntimeconfig.cache
+C:\Users\marca\source\repos\A2_CAB201\obj\Debug\net8.0\ref\A2_CAB201.dll

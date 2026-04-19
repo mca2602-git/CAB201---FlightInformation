@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A2_CAB201/1.0.0": {
+        "runtime": {
+          "A2_CAB201.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A2_CAB201/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
